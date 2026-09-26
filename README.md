@@ -13,9 +13,5 @@ I am a Software Engineer and an Aalto University alumni with a Master's degree i
 - **Languages:** C++, Rust, Python
 - **Tools & Automation:** Git, GitHub Actions, Docker
 
-### 📊 GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=saviaa1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviaa1&layout=compact&theme=radical)
-
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/alex-savia)
