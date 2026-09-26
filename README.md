@@ -8,6 +8,7 @@ I am a Software Engineer and an Aalto University alumni with a Master's degree i
 - 💬 Ask me about **C++, Rust, and Python**
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/alex-savia)
 - ⚡ Fun fact: Outside of software, I spend my time scuba diving underwater and trekking through the remote wilderness of northern Scandinavia.
+- 📍 Based in **Espoo, Finland**
 
 ### 💻 Tech Stack
 - **Languages:** C++, Rust, Python
